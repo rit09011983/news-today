@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CA7CEFF7-0ECB-4910-8DE8-4226D5D0F535"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05045F5C-A91C-4694-81E4-BB8EDA699C3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsToday/WebServices/NetworkRequester.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "makeNetworkRequest(category:onCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C31A56C-E8CB-4D7B-A442-555927DC48AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsToday/WebServices/NetworkRequester.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "makeNetworkRequest(category:onCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D838510-760A-46E7-BC8A-9EE0388B1492"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsToday/WebServices/NetworkRequester.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "makeNetworkRequest(category:onCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA84CC7B-E0B0-4F1E-9E7D-58BD4B8C675A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsToday/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
+            landmarkName = "allBindData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA84CC7B-E0B0-4F1E-9E7D-58BD4B8C675A - 2dc5491d54349b32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;NewsToday.News&gt;) -&gt; () in NewsToday.ViewController.allBindData() -&gt; ()"
+                  moduleName = "NewsToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/NewsToday/NewsToday/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "385"
+                  endingLineNumber = "385"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "FA84CC7B-E0B0-4F1E-9E7D-58BD4B8C675A - 2dc5491d54349b32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;NewsToday.News&gt;) -&gt; () in NewsToday.ViewController.allBindData() -&gt; ()"
+                  moduleName = "NewsToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/NewsToday/NewsToday/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "385"
+                  endingLineNumber = "385"
+                  offsetFromSymbolStart = "1272">
+               </Location>
+               <Location
+                  uuid = "FA84CC7B-E0B0-4F1E-9E7D-58BD4B8C675A - 2e0e0206b74d38e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;NewsToday.News&gt;) -&gt; () in NewsToday.ViewController.allBindData() -&gt; ()"
+                  moduleName = "NewsToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/NewsToday/NewsToday/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "385"
+                  endingLineNumber = "385"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "FA84CC7B-E0B0-4F1E-9E7D-58BD4B8C675A - 2dc5491d54349b32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;NewsToday.News&gt;) -&gt; () in NewsToday.ViewController.allBindData() -&gt; ()"
+                  moduleName = "NewsToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/NewsToday/NewsToday/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "385"
+                  endingLineNumber = "385"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "291C083E-D89B-42CD-AB33-477F27781CB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsToday/ViewModels/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getNewsFromCateory(category:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "291C083E-D89B-42CD-AB33-477F27781CB3 - 18febf5924c5335e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;NewsToday.News&gt;, Swift.Optional&lt;__C.NSDictionary&gt;) -&gt; () in NewsToday.NewsViewModel.getNewsFromCateory(category: Swift.String) -&gt; ()"
+                  moduleName = "NewsToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/NewsToday/NewsToday/ViewModels/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "291C083E-D89B-42CD-AB33-477F27781CB3 - 18febf5924c5335e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;NewsToday.News&gt;, Swift.Optional&lt;__C.NSDictionary&gt;) -&gt; () in NewsToday.NewsViewModel.getNewsFromCateory(category: Swift.String) -&gt; ()"
+                  moduleName = "NewsToday"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/NewsToday/NewsToday/ViewModels/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
