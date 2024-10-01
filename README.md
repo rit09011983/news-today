@@ -25,11 +25,11 @@ Used API : https://newsapi.org/v2/top-headlines?country=us&category=(*****)&apiK
 ## Interface
 
 <pre>
-<img src="screenShot/IMG_9102.png" height=250, width=250>     <img src="screenShot/IMG_9103.PNG" height=250, width=250>      <img src="screenShot/IMG_9104.PNG" height=250, width=250>
+<img src="screenShot/IMG_9102.png" height=250, width=250 />     <img src="screenShot/IMG_9102.PNG" height=250, width=250 />      <img src="screenShot/IMG_9104.PNG" height=250, width=250 />
 
-<img src="screenShot/IMG_9105.PNG" height=250, width=250>     <img src="screenShot/IMG_9106.PNG" height=250, width=250>      <img src="screenShot/IMG_9107.PNG" height=250, width=250>
+<img src="screenShot/IMG_9105.PNG" height=250, width=250 />     <img src="screenShot/IMG_9106.PNG" height=250, width=250 />      <img src="screenShot/IMG_9107.PNG" height=250, width=250 />
 
-<img src="screenShot/IMG_9109.PNG" height=250, width=250> 
+<img src="screenShot/IMG_9109.PNG" height=250, width=250 /> 
 </pre>
 
 
